@@ -119,6 +119,8 @@ history = trainer.fit(
 
 <img src="/images/lossplot.png" alt="train-val-loss" width="470" height="390"/>
 
+You can find the sample code in the model.py.
+
 <!-- RESULTS -->
 ## Results
 
