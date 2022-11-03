@@ -18,6 +18,7 @@
 
 This study allows the ConvNeXt architecture for the MaskRCNN model, available in the torchvision library, to be used as a backbone network. It also includes a customized trainer class. The study was also tested in one of the Cell Tracking Challenge datasets. The results of several different backbone network configurations were shared.
 
+Install [Pytorch](https://pytorch.org/)>=1.8.0 and [torchvision](https://pytorch.org/vision/stable/index.html)>=0.9.0 following official instructions or [installation](#Installation). 
 
 <!-- GETTING STARTED -->
 ## Getting Started
