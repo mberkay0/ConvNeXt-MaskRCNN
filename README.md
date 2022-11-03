@@ -117,6 +117,8 @@ history = trainer.fit(
 )
 ```
 
+<img src="/images/lossplot.png" alt="train-val-loss" width="470" height="390"/>
+
 <!-- RESULTS -->
 ## Results
 
@@ -127,9 +129,6 @@ Some results from the training using the ConvNeXt backbone network are shown bel
 | ResNet50 | 512x512 | 87.9 | 20 |
 | ConvNeXt-B | 512x512 | 92.0 | 20 |
 | ConvNeXt-T | 512x512 | 91.6 | 20 | 
-
-
-<img src="/images/lossplot.png" alt="train-val-loss" width="470" height="390"/>
 
 
 <img src="/images/result.png" alt="example-result" width="600" height="500"/>
