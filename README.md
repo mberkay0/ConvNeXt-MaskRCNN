@@ -119,13 +119,13 @@ history = trainer.fit(
 
 Some results from the training using the ConvNeXt backbone network are shown below.
 
-| backbone name | resolution |dice score % | number of epoch | 
+| backbone name | resolution |dice score (%) | number of epoch | 
 |:---:|:---:|:---:|:---:|
 | ResNet50 | 512x512 | 87.9 | 20 |
 | ConvNeXt-B | 512x512 | 92.0 | 20 |
 | ConvNeXt-T | 512x512 | 91.6 | 20 | 
 
-<img src="/images/lossplot.png" alt="train-val-loss" width="600" height="500"/>
+<img src="/images/lossplot.png" alt="train-val-loss" width="500" height="400"/>
 <img src="/images/result.png" alt="example-result" width="600" height="500"/>
 
 
