@@ -8,12 +8,14 @@
     <br />
   </p>
 </p>
+.. image:: https://pepy.tech/badge/torchvision
+    :target: https://pepy.tech/project/torchvision
 
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This work allows the ConvNeXt architecture for the MaskRCNN model, available in the torchvision library, to be used as a backbone network. It also includes a customized trainer class.
+This study allows the ConvNeXt architecture for the MaskRCNN model, available in the torchvision library, to be used as a backbone network. It also includes a customized trainer class. The study was also tested in one of the Cell Tracking Challenge datasets. The results of several different backbone network configurations were shared.
 
 
 <!-- GETTING STARTED -->
@@ -125,7 +127,7 @@ Some results from the training using the ConvNeXt backbone network are shown bel
 | ConvNeXt-B | 512x512 | 92.0 | 20 |
 | ConvNeXt-T | 512x512 | 91.6 | 20 | 
 
-<img src="/images/lossplot.png" alt="train-val-loss" width="500" height="400"/>
+<img src="/images/lossplot.png" alt="train-val-loss" width="470" height="390"/>
 <img src="/images/result.png" alt="example-result" width="600" height="500"/>
 
 
