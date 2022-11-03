@@ -58,6 +58,7 @@ import torch
 from torchvision.models.detection import MaskRCNN
 from .inference import Config
 from .dataset import BuildDataset
+from torch.utils.data import DataLoader
 from .utils import get_file_dir, convnext_fpn_backbone, Trainer
 
 
