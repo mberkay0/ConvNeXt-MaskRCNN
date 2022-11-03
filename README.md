@@ -57,9 +57,8 @@ Provide helper functions to simplify writing torchvision pipelines using pre-tra
 import torch
 from torchvision.models.detection import MaskRCNN
 from .inference import Config
-from .train_utils import convnext_fpn_backbone, Trainer
 from .dataset import BuildDataset
-from .utils import get_file_dir
+from .utils import get_file_dir, convnext_fpn_backbone, Trainer
 
 
 train_dataset = BuildDataset(get_file_dir(train_img_path), 
