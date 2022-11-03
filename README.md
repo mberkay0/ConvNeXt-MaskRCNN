@@ -8,8 +8,7 @@
     <br />
   </p>
 </p>
-.. image:: https://pepy.tech/badge/torchvision
-    :target: https://pepy.tech/project/torchvision
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 
 <!-- ABOUT THE PROJECT -->
