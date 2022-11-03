@@ -9,7 +9,7 @@ class Config:
     model_name        = 'MaskRCNN'
     backbone          = 'convnext_tiny'
     save_path         = '/content/'
-	class_names       = ['__background__', 'cell']
+    class_names       = ['__background__', 'cell']
     weights           = None # file path with weights of your pre-trained model
     pretrained        = False # If you have a pre-trained model, load weights
     max_size          = 512
