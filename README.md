@@ -1,6 +1,7 @@
 <br />
 <p align="center">
-
+  
+  <img align="left" alt="torchvision" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpaperswithcode.com%2Flib%2Ftorchvision&psig=AOvVaw2gTeNU9pZ5PP9m03oh5VfG&ust=1667588184813000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLCf153YkvsCFQAAAAAdAAAAABAE"/>
   <h3 align="center">ConvNeXt Backbone for Mask R-CNN</h3>
 
   <p align="center">
