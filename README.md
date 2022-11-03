@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   
-  <h3 align="center">ConvNeXt Backbone for Mask R-CNN</h3>
+  <h1 align="center">ConvNeXt Backbone for Mask R-CNN</h1>
 
   <p align="center">
     Easy way to use Mask R-CNN with ConvNeXt backbone.
